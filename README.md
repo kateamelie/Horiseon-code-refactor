@@ -2,16 +2,16 @@
 
 ## Description
 
-This was my first week's homework assignment, and my first time refactoring code!
-I had a straight forward time editing the HTML elements into semantic elements and organizing the code by adding comments.
-Semantic HTML elements allows for better search engine optimization and reader accessibility (i.e. a screen reader can now read the title of each element!"
-The harder part for me was figuring the css. The css style sheet is definitely something I will work on further for next week's assignment.
+- This was my first week's homework assignment, and my first time refactoring code!
+- I had a straight forward time editing the HTML elements into semantic elements and organizing the code by adding comments.
+- Semantic HTML elements allow for better search engine optimization and reader accessibility (i.e. a screen reader can now read the title of each element, like "header" or "paragraph."
+- The harder part for me was figuring the css. The css style sheet is definitely something I will work on further for next week's assignment.
 
 
 ## Installation
 
--GitHub account and web browser (I recommend Google Chrome)
--VS Code installed on your mac or windows, if you wanted to view the files from your local machine
+- GitHub account and web browser (I recommend Google Chrome)
+- VS Code installed on your mac or windows, if you want to view the files from your local machine
 
 ## Usage
 
