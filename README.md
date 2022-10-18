@@ -1,4 +1,4 @@
-# Week1-Refactor#
+# Week1-Refactor
 
 ## Description
 
